@@ -1,0 +1,28 @@
+{
+    
+        "name": "Chatcord",
+        "short_name": "Chatcord",
+        "theme_color": "#000000",
+        "background_color": "#000000",
+        "display": "standalone",
+        "scope": "/",
+        "start_url": "/",
+        "icons": [
+            {
+                "src": "favicon.png",
+                "sizes": "394x394",
+                "type": "image/png"
+            },
+            {
+                "src": "192x192.png",
+                "type": "image/png",
+                "sizes": "192x192"
+            },
+            {
+                "src": "512x512.png",
+                "type": "image/x-icon",
+                "sizes": "512x512"
+            }
+        ]
+    
+}
