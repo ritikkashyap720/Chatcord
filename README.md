@@ -25,9 +25,11 @@ When building **Chatcord** i have to create **UI** in such a way that it appears
 The ui is completely user friendly and responsive.
 # On Desktop Devices
  Light mode on pc
- ![image](https://github.com/user-attachments/assets/a166c203-2159-4e12-84b2-074e5403e1a6)
+ ![pc dark](https://github.com/user-attachments/assets/330bd042-8df1-4797-b84f-3c251cf578e9)
+
  Dark mode on pc
- ![image](https://github.com/user-attachments/assets/4bf2030a-08b8-47cc-8d28-fa272117bc3c)
+![pc light](https://github.com/user-attachments/assets/815b8156-b477-49e1-8b66-9c1dcc228801)
+
 
 # On Mobile Devices
 Mobile ui
