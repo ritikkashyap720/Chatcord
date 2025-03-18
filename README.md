@@ -30,9 +30,8 @@ The ui is completely user friendly and responsive.
   ![Desktop dark mode](https://github.com/ritikkashyap720/Chatcord/blob/main/pc%20dark.png)
 # On Mobile Devices
 Mobile ui
-![Phone dark mode](https://github.com/ritikkashyap720/Chatcord/blob/main/phone%20dark.jpg)
- ![Phone light mode](https://github.com/ritikkashyap720/Chatcord/blob/main/phone%20light.jpg)
- 
+ ![chatcord-preview](https://github.com/user-attachments/assets/8caafa49-ef6e-454b-889d-6d573393f43e)
+
 
 
 
